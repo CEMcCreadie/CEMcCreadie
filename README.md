@@ -10,6 +10,7 @@
 
 <img align="right" alt="GIF" width= "35%" height= "35%" src="assets/RickHacking.gif" />
 
+</br>
 ### I am Callum McCreadie
 - A Computer Science Student at The University Of Sheffield.
 - I love Data Science, Machine Learning and all that good stuff.
