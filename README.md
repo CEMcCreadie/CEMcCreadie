@@ -8,8 +8,7 @@
   <img align="left" alt="Callum's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br />
-<img align="right" alt="GIF" width= "20%" src="assets/RickHacking.gif" />
+<img align="right" alt="GIF" width= "35%" height= "35%" src="assets/RickHacking.gif" />
 
 ### I am Callum McCreadie
 - A Computer Science Student at The University Of Sheffield.
