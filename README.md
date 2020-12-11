@@ -9,7 +9,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" width= "40px" src="assets/RickHacking.gif" />
+<img align="right" alt="GIF" width= "20%" src="assets/RickHacking.gif" />
 
 ### I am Callum McCreadie
 - A Computer Science Student at The University Of Sheffield.
