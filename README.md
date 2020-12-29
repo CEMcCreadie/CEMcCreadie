@@ -16,6 +16,6 @@
 ### I am Callum McCreadie
 - A Computer Science Student at The University Of Sheffield.
 - I love Data Science, Machine Learning and all that good stuff.
-- Currently learning the maths behind neural networkds.
+- Currently learning the maths behind neural networks.
 - Trying to make as many repo's public as I can.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
