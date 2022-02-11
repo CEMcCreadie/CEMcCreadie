@@ -14,4 +14,4 @@
 
 
 ### I am Callum McCreadie
-Currently focusing on finishing my studies at The Univesity of Sheffield. My dissertation investigates the application of transfer learning in the automated segmentation of medical imaging. In my spare time I'm enjoying learning C programming and how a computer manages memory.
+Computer Science student at the University of Sheffield. Interest in deep learning. How Unique! Incoming MSc Data Science student.
