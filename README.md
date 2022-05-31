@@ -14,4 +14,4 @@
 
 
 ### I am Callum McCreadie
-Computer Science student at the University of Sheffield. Interest in deep learning. How Unique! Incoming MSc Data Science student.
+
